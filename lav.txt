@@ -1,0 +1,5 @@
+Removing the file from Remoted repository and staging area:-
+   To remove the specified file we should use a command called rm that command should the file name
+which we want to remove from the staging area. so directly it will not remove the staging area
+from the remote respository so before going to remove file from local machine to remove any file from local
+machine to remote respoistory we mult remove that file from the staging atea itself.
